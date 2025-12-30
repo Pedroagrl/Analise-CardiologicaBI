@@ -69,19 +69,7 @@ Obs: O projeto não tem caráter clínico ou determinístico, mas sim **explorat
 
 ---
 
-## - Visualização dos Dashboards
-
-### Exames Clínicos e Confirmação Diagnóstica
-<img src="powerbi/assets/img1.png" width="700">
-
-### Exames Clínicos e Confirmação Diagnóstica ( Segmentada)
-<img src="powerbi/assets/img3.png" width="700">
-
-### Triagem e Perfil de Risco Cardíaco
-<img src="powerbi/assets/img2.png" width="700">
-
-
-## 📊 Métricas e Variáveis Analisadas
+## - Métricas e Variáveis Analisadas
 
 As análises foram desenvolvidas a partir das seguintes variáveis:
 
@@ -119,6 +107,17 @@ Principais análises:
 - Taxa de Doença Detectada Apenas por ECG
 - Taxa de Confirmação por Exames
 - Distribuição por Status Cardíaco
+
+## - Visualização dos Dashboards
+
+### Exames Clínicos e Confirmação Diagnóstica
+<img src="powerbi/assets/img1.png" width="700">
+
+### Exames Clínicos e Confirmação Diagnóstica ( Segmentada)
+<img src="powerbi/assets/img3.png" width="700">
+
+### Triagem e Perfil de Risco Cardíaco
+<img src="powerbi/assets/img2.png" width="700">
 
 ---
 
