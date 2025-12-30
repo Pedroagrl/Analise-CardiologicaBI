@@ -53,6 +53,12 @@ Obs: O projeto não tem caráter clínico ou determinístico, mas sim **explorat
 
 ---
 
+## 🖥️ Visualização dos Dashboards
+
+### Triagem e Perfil de Risco Cardíaco
+<img src="powerbi/assets/img1.png" width="700">
+
+
 ## 📊 Métricas e Variáveis Analisadas
 
 As análises foram desenvolvidas a partir das seguintes variáveis:
