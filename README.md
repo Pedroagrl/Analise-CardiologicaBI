@@ -108,17 +108,6 @@ Principais análises:
 - Taxa de Confirmação por Exames
 - Distribuição por Status Cardíaco
 
-## - Visualização dos Dashboards
-
-### Exames Clínicos e Confirmação Diagnóstica
-<img src="powerbi/assets/img1.png" width="700">
-
-### Exames Clínicos e Confirmação Diagnóstica ( Segmentada)
-<img src="powerbi/assets/img3.png" width="700">
-
-### Triagem e Perfil de Risco Cardíaco
-<img src="powerbi/assets/img2.png" width="700">
-
 ---
 
 ### 2️⃣ Exames Clínicos e Confirmação Diagnóstica
@@ -135,6 +124,19 @@ Principais análises:
 - Proporção de ECG Grave entre ECGs Alterados
 - Perfusão Cardíaca Anormal
 - Taxa de Confirmação Diagnóstica por Exames
+
+---
+
+## - Visualização dos Dashboards
+
+### Exames Clínicos e Confirmação Diagnóstica
+<img src="powerbi/assets/img1.png" width="700">
+
+### Exames Clínicos e Confirmação Diagnóstica ( Segmentada)
+<img src="powerbi/assets/img3.png" width="700">
+
+### Triagem e Perfil de Risco Cardíaco
+<img src="powerbi/assets/img2.png" width="700">
 
 ---
 
