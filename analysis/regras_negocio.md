@@ -29,9 +29,9 @@ As faixas etárias utilizadas foram definidas com base em intervalos regulares.
 ## Classificação dos Resultados de ECG
 
 Os resultados do exame de ECG foram categorizados em:
-- Normal
-- Alteração Leve
-- Alteração Grave
+- Normal ( 0 )
+- Alteração Leve ( 1 )
+- Alteração Grave ( 2 )
 
 Essa categorização permite analisar não apenas a presença de alteração, mas também sua severidade.
 
@@ -40,17 +40,17 @@ Essa categorização permite analisar não apenas a presença de alteração, ma
 ## Classificação dos Tipos de dor no Peito
 
 Os resultados dos tipos de dores foram categorizados em:
-- Dor Angina Atípica
-- Dor Angina Típica
-- Dor Assintomático
-- Dor Não Anginosa
+- Dor Angina Típica ( 1 )
+- Dor Angina Atípica ( 2 )
+- Dor Não Anginosa ( 3 )
+- Dor Assintomático ( 4 )
 
 ---
 ## Classificação das Perfusões
 
 Os resultados dos tipos de perfusões foram categorizados em:
-- Normal
-- Alteração Reversível
-- Alteração Fixa
+- Normal ( 3 )
+- Alteração Reversível ( 7 )
+- Alteração Fixa ( 6 )
 
 ---
