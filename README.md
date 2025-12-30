@@ -55,8 +55,14 @@ Obs: O projeto não tem caráter clínico ou determinístico, mas sim **explorat
 
 ## 🖥️ Visualização dos Dashboards
 
-### Triagem e Perfil de Risco Cardíaco
+### Exames Clínicos e Confirmação Diagnóstica
 <img src="powerbi/assets/img1.png" width="700">
+
+### Exames Clínicos e Confirmação Diagnóstica ( Segmentada)
+<img src="powerbi/assets/img3.png" width="700">
+
+### Triagem e Perfil de Risco Cardíaco
+<img src="powerbi/assets/img3.png" width="700">
 
 
 ## 📊 Métricas e Variáveis Analisadas
