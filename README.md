@@ -6,7 +6,7 @@ O objetivo central é estruturar um **pipeline analítico** capaz de explorar, d
 
 ---
 
-## 📌 Contexto Analítico
+## - Contexto Analítico
 
 Doenças cardiovasculares estão entre as principais causas de mortalidade no mundo. Em muitos casos, o diagnóstico depende da correta interpretação de **sintomas clínicos iniciais** e da confirmação por **exames objetivos**, como ECG e exames de perfusão cardíaca.
 
@@ -19,7 +19,7 @@ Obs: O projeto não tem caráter clínico ou determinístico, mas sim **explorat
 
 ---
 
-## 🎯 Objetivos do Projeto
+## - Objetivos do Projeto
 
 - Avaliar a **presença de doença cardíaca** a partir de sintomas e exames
 - Analisar a **detecção da doença por sintomas clínicos**
@@ -69,7 +69,7 @@ Obs: O projeto não tem caráter clínico ou determinístico, mas sim **explorat
 
 ---
 
-## 🖥️ Visualização dos Dashboards
+## - Visualização dos Dashboards
 
 ### Exames Clínicos e Confirmação Diagnóstica
 <img src="powerbi/assets/img1.png" width="700">
@@ -104,7 +104,7 @@ As análises foram desenvolvidas a partir das seguintes variáveis:
 
 ---
 
-## 📈 Dashboards Desenvolvidos
+## - Dashboards Desenvolvidos
 
 ### 1️⃣ Triagem e Perfil de Risco Cardíaco
 Dashboard voltado para a **análise inicial**, com foco em sintomas e primeiros indícios da doença.
@@ -139,7 +139,7 @@ Principais análises:
 
 ---
 
-## 🧮 KPIs e Definições
+## - KPIs e Definições
 
 A definição conceitual e lógica de cálculo de cada KPI está documentada no arquivo:
 
@@ -153,7 +153,7 @@ Esse documento descreve:
 
 ---
 
-## 💡 Considerações Finais
+## - Considerações Finais
 
 Este projeto demonstra como **dados clínicos bem estruturados e visualizações adequadas** podem apoiar a compreensão de cenários complexos, como o risco cardíaco, permitindo análises mais claras e orientadas por evidências.
 
