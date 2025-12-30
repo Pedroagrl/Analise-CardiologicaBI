@@ -40,10 +40,16 @@ Obs: O projeto não tem caráter clínico ou determinístico, mas sim **explorat
 ┃ ┗ heart_disease_processed.csv
 
 📁 analysis
-┗ kpis_definition.md
+┗ kpis_dax.md
+┗ decisoes_analiticas.md
+┗ regras_negocio.md
 
 📁 powerbi
 ┗ analise_cardiologica.pbix
+┣ 📁 assets
+  ┗ img1.png
+  ┗ img2.png
+  ┗ img3.png
 
 ### Descrição das pastas
 - **data/raw**: dados originais, sem tratamento
