@@ -1,4 +1,4 @@
--Análise de Dados aplicada à Saúde: Risco Cardíaco
+#-Análise de Dados aplicada à Saúde: Risco Cardíaco
 
 Este projeto tem como foco a aplicação de **Análise de Dados e Business Intelligence** no contexto da saúde, utilizando dados clínicos estruturados para analisar o **risco cardíaco** e a relação entre **sintomas clínicos e exames diagnósticos**.
 
