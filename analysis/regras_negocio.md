@@ -36,3 +36,21 @@ Os resultados do exame de ECG foram categorizados em:
 Essa categorização permite analisar não apenas a presença de alteração, mas também sua severidade.
 
 ---
+
+## Classificação dos Tipos de dor no Peito
+
+Os resultados dos tipos de dores foram categorizados em:
+- Dor Angina Atípica
+- Dor Angina Típica
+- Dor Assintomático
+- Dor Não Anginosa
+
+---
+## Classificação das Perfusões
+
+Os resultados dos tipos de perfusões foram categorizados em:
+- Normal
+- Alteração Reversível
+- Alteração Fixa
+
+---
