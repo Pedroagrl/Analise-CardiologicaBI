@@ -143,7 +143,7 @@ Principais análises:
 
 A definição conceitual e lógica de cálculo de cada KPI está documentada no arquivo:
 
-📄 `analysis/kpis_definition.md`
+📄 `analysis/kpis_dax.md`
 
 Esse documento descreve:
 - O conceito de cada KPI
