@@ -32,6 +32,7 @@ Obs: O projeto não tem caráter clínico ou determinístico, mas sim **explorat
 ## 🗂 Estrutura do Projeto
 
 📁 data
+
 ┣ 📁 raw
 ┃ ┗ heart_disease_raw.csv
 
