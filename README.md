@@ -46,6 +46,7 @@ Obs: O projeto não tem caráter clínico ou determinístico, mas sim **explorat
 
 📁 powerbi
 ┗ analise_cardiologica.pbix
+
 ┣ 📁 assets
   ┗ img1.png
   ┗ img2.png
