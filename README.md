@@ -62,7 +62,7 @@ Obs: O projeto não tem caráter clínico ou determinístico, mas sim **explorat
 <img src="powerbi/assets/img3.png" width="700">
 
 ### Triagem e Perfil de Risco Cardíaco
-<img src="powerbi/assets/img3.png" width="700">
+<img src="powerbi/assets/img2.png" width="700">
 
 
 ## 📊 Métricas e Variáveis Analisadas
