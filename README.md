@@ -29,7 +29,7 @@ Obs: O projeto não tem caráter clínico ou determinístico, mas sim **explorat
 
 ---
 
-## 🗂 Estrutura do Projeto
+## - Estrutura do Projeto
 
 📁 data
 
