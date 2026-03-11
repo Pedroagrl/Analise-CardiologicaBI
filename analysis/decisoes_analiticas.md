@@ -1,6 +1,6 @@
 # Decisões Analíticas do Projeto
 
-Este documento apresenta as principais decisões tomadas durante o desenvolvimento do projeto, considerando clareza analítica, foco nos objetivos e boas práticas de visualização de dados.
+Este projeto foi desenvolvido como parte de um trabalho freelance para uma clínica, com foco na aplicação de Análise de Dados e Business Intelligence no contexto da saúde, utilizando dados clínicos estruturados para analisar o risco cardíaco e a relação entre sintomas clínicos e exames diagnósticos.
 
 ---
 
@@ -22,7 +22,3 @@ Algumas variáveis presentes no conjunto de dados original, como colesterol, aç
 A decisão foi tomada por essas variáveis não contribuírem diretamente para os objetivos analíticos definidos.
 
 ---
-
-## Limitações da Análise
-
-Os indicadores apresentados não possuem caráter diagnóstico e não substituem avaliação médica. O projeto tem finalidade exploratória e educacional, com foco em análise de dados e visualização de informações.
