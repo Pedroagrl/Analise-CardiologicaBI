@@ -1,6 +1,6 @@
-# Análise de Dados aplicada à Saúde: Risco Cardíaco
+# Análise de Dados aplicada à Saúde: Risco Cardíaco – Projeto Freelance
 
-Este projeto tem como foco a aplicação de **Análise de Dados e Business Intelligence** no contexto da saúde, utilizando dados clínicos estruturados para analisar o **risco cardíaco** e a relação entre **sintomas clínicos e exames diagnósticos**.
+Este projeto foi desenvolvido como parte de um trabalho freelance para uma clínica, com foco na aplicação de Análise de Dados e Business Intelligence no contexto da saúde, utilizando dados clínicos estruturados para analisar o risco cardíaco e a relação entre sintomas clínicos e exames diagnósticos.**.
 
 O objetivo central é estruturar um **pipeline analítico** capaz de explorar, de forma quantitativa, **como diferentes sinais clínicos e exames contribuem para a detecção da doença cardíaca**, apoiando análises exploratórias e hipóteses orientadas por dados.
 
@@ -15,17 +15,14 @@ Diante desse cenário, este projeto busca analisar:
 - O papel dos **exames clínicos** na confirmação diagnóstica
 - A complementaridade entre sinais subjetivos e exames objetivos
 
-Obs: O projeto não tem caráter clínico ou determinístico, mas sim **exploratório**, com foco na geração de hipóteses e na compreensão analítica do problema.
-
 ---
 
-## - Objetivos do Projeto
+## - Objetivos:
 
 - Avaliar a **presença de doença cardíaca** a partir de sintomas e exames
 - Analisar a **detecção da doença por sintomas clínicos**
 - Investigar a **confirmação diagnóstica por exames**
 - Construir **KPIs claros, consistentes e interpretáveis**
-- Aplicar boas práticas de **modelagem, DAX e visualização analítica**
 
 ---
 
@@ -156,13 +153,7 @@ Esse documento descreve:
 
 ## - Considerações Finais
 
-Este projeto demonstra como **dados clínicos bem estruturados e visualizações adequadas** podem apoiar a compreensão de cenários complexos, como o risco cardíaco, permitindo análises mais claras e orientadas por evidências.
+Este trabalho demonstra como soluções de Business Intelligence aplicadas à saúde podem apoiar a compreensão de cenários complexos, como o risco cardíaco, permitindo análises mais claras e orientadas por evidências.
 
-A estrutura adotada pode ser facilmente adaptada para:
-- Outros conjuntos de dados clínicos
-- Novos indicadores de risco
-- Diferentes contextos de saúde e pesquisa
-
-O projeto tem caráter **educacional e analítico**, não substituindo avaliações médicas ou diagnósticos clínicos.
 
 ---
