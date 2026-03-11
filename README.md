@@ -1,6 +1,6 @@
 # Análise de Dados aplicada à Saúde: Risco Cardíaco – Projeto Freelance
 
-Este projeto foi desenvolvido como parte de um trabalho freelance para uma clínica, com foco na aplicação de Análise de Dados e Business Intelligence no contexto da saúde, utilizando dados clínicos estruturados para analisar o risco cardíaco e a relação entre sintomas clínicos e exames diagnósticos.**.
+Este projeto foi desenvolvido como parte de um trabalho freelance para uma clínica, com foco na aplicação de Análise de Dados e Business Intelligence no contexto da saúde, utilizando dados clínicos estruturados para analisar o risco cardíaco e a relação entre sintomas clínicos e exames diagnósticos.
 
 O objetivo central é estruturar um **pipeline analítico** capaz de explorar, de forma quantitativa, **como diferentes sinais clínicos e exames contribuem para a detecção da doença cardíaca**, apoiando análises exploratórias e hipóteses orientadas por dados.
 
